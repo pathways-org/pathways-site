@@ -13,9 +13,8 @@ Head over to [degreeWorks](https://degreeworks-prod-j.isc-seo.upenn.edu:9904/wor
 Here is what the degreeWorks website should look like (grades omitted for
 privacy):
 
-```yaml
-logo: "/assets/images/example.png"
-```
+![]("../../assets/images/example.png")
+
 Next, on the degreeWorks website, do a **cmd-A**, **cmd-C** and then **cmd-V** into the text box below and click on the format button below. 
 
 ```markdown
