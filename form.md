@@ -4,11 +4,8 @@ title: "Form"
 nav_order: 2
 permalink: /form
 ---
-.text-center	
 ## Transcript Submission Form
 {: .no_toc }
-
-.text-left
 
 Navigate over to [degreeWorks](https://degreeworks-prod-j.isc-seo.upenn.edu:9904/worksheets/WEB31). 
 This is what the website should look like (grades omitted for privacy):
@@ -24,7 +21,10 @@ Next, on the degreeWorks website, do a **cmd-A**, **cmd-C** and then **cmd-V** i
 
 <textarea type="text" id="Name" rows="10" cols="90"></textarea>
 
-<li>[ ] Format</li>
+<div>
+  <input type="checkbox" name="uchk">
+  <label for="uchk">Format</label>
+</div>
 
 
 [Submit](){: .btn .btn-blue }
