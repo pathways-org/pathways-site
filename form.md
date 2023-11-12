@@ -10,7 +10,7 @@ permalink: /form
 Navigate over to [degreeWorks](https://degreeworks-prod-j.isc-seo.upenn.edu:9904/worksheets/WEB31). 
 This is what the website should look like (grades omitted for privacy):
 
-![](/assets/images/example.png) 
+![]({{site.baseurl}}/assets/images/example.png) 
 
 Next, on the degreeWorks website, do a **cmd-A**, **cmd-C** and then **cmd-V** into the text box below and click on the format button below.
 

@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+baseurl: /pathways
+
 callouts:
     important:
         title: Important
