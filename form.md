@@ -16,10 +16,12 @@ privacy):
 ```yaml
 logo: "/assets/images/example.png"
 ```
-Next, do a cmd-A, cmd-C and then cmd-V into the text box below and click on the format button below. 
+Next, do a **cmd-A**, **cmd-C** and then **cmd-V** into the text box below and click on the format button below. 
+
+```markdown
 {: .note-title}
 > Important
 >
 >Clicking on the format button BEFORE submit is to help remove your grades and add some anonymity to your data. 
-
-<textarea type="text" id="Name" rows="10" cols="10"></textarea>
+```
+<textarea type="text" id="Name" rows="10" cols="1000"></textarea>
