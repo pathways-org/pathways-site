@@ -22,7 +22,7 @@ Next, on the degreeWorks website, do a **cmd-A**, **cmd-C** and then **cmd-V** i
 > Clicking on the format button **BEFORE** submit is to help remove your grades and add some anonymity to your data. 
 
 
-<textarea type="text" id="Name" rows="10" cols="80"></textarea>
+<textarea type="text" id="Name" rows="10" cols="90"></textarea>
 
 <li>[ ] Format</li>
 
