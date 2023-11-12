@@ -4,7 +4,7 @@ title: "Form"
 nav_order: 2
 permalink: /form
 ---
-## Instructions:
+## Transcript Submission Form:
 {: .no_toc }
 
 Navigate over to [degreeWorks](https://degreeworks-prod-j.isc-seo.upenn.edu:9904/worksheets/WEB31). 
@@ -19,5 +19,10 @@ Next, on the degreeWorks website, do a **cmd-A**, **cmd-C** and then **cmd-V** i
 > Clicking on the format button **BEFORE** submit is to help remove your grades and add some anonymity to your data. 
 
 
+<textarea type="text" id="Name" rows="10" cols="80"></textarea>
 
-<textarea type="text" id="Name" rows="10" cols="100"></textarea>
+
+- [x] Format
+
+
+[Submit](){: .btn .btn-blue }
