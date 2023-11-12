@@ -8,7 +8,7 @@ permalink: /form
 ## Instructions:
 {: .no_toc }
 
-Please navigate over to [degreeWorks](https://degreeworks-prod-j.isc-seo.upenn.edu:9904/worksheets/WEB31).
+Navigate over to [degreeWorks](https://degreeworks-prod-j.isc-seo.upenn.edu:9904/worksheets/WEB31). 
 Here is what the degreeWorks website should look like (grades omitted for privacy):
 
 ![]("../../assets/images/example.png")
