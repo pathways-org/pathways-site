@@ -18,7 +18,7 @@ callouts:
     important:
     title: Important
     color: blue
-=
+
 {: .important}
 >Clicking on the format button BEFORE submit is to help remove your grades and add some anonymity to your data. 
 
